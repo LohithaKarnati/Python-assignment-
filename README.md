@@ -1,5 +1,6 @@
 # Python-assignment-
 This is my python class assignment 
+
  1.def check_even_odd(num):
  if num % 2 == 0:
 return f"{num} is an even number."
